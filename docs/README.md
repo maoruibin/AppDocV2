@@ -3,6 +3,7 @@ home: true
 title: 咕咚文档
 heroImage: /img/gudong-doc-logo.svg
 footer: © 咕咚
+sidebar: false
 ---
 
 欢迎来到我的个人软件文档中心，选择上方入口开始使用。
