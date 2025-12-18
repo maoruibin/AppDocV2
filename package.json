@@ -1,0 +1,20 @@
+{
+  "name": "appdocv2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.26",
+    "@vuepress/bundler-webpack": "^2.0.0-rc.26",
+    "@vuepress/helper": "^2.0.0-rc.26",
+    "@vuepress/plugin-search": "^2.0.0-rc.121",
+    "@vuepress/theme-default": "^2.0.0-rc.26",
+    "markdown-it-task-lists": "^2.1.1",
+    "sass": "^1.96.0",
+    "sass-loader": "^13.3.3",
+    "vuepress": "^2.0.0-rc.26"
+  }
+}

@@ -1,0 +1,25 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
+
+# VuePress v2 temps and builds
+docs/.vuepress/.temp/
+docs/.vuepress/dist/
+oldDoc/docs/.vuepress/.temp/
+oldDoc/docs/.vuepress/dist/
+docs/.vuepress/.cache/
+
+# Cache
+.npm-cache/
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# Env
+.env*
+*.apk
