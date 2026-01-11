@@ -74,9 +74,11 @@ export default defineUserConfig({
           { text: 'Kimi 接入', link: '/inbox/ai_kimi', children: [] },
           { text: 'DeepSeek', link: '/inbox/deepseek', children: [] },
           { text: 'Web S3 教程', link: '/inbox/lesson-web-s3', children: [] },
+          { text: 'S3 存储配置问题排查指南', link: '/inbox/s3-issue', children: [] },
           { text: 'Memos', link: '/inbox/memos', children: [] },
           { text: '思源', link: '/inbox/siyuan', children: [] },
           { text: 'API', link: '/inbox/api', children: [] },
+          
           { text: 'Scheme', link: '/inbox/scheme', children: [] }
         ]},
         { text: '教程', collapsible: false, children: [

@@ -25,3 +25,6 @@
 - [数据安全说明](data_security.md)
 - [联系我们](contact.md)
 - [PRO版本特权](pro_version.md) 
+
+## 下载
+[去下载](../inbox/download.md)
